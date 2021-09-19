@@ -1,6 +1,7 @@
-# App Pintar 
+<h1 align="center">App Pintar</h1>  
 
-# Porcion del codigo 
+<h3 align="center">Porcion del codigo</h3>
+
 ``` js
 function drawLine(x1, y1, x2, y2) {
     ctx.beginPath();
